@@ -9,9 +9,9 @@ sh speedtest.sh TARGET_DIR (FILESIZE)
 ```
 
 #### Arguments
-`TARGET_DIR` Path to directory which should be benchmarked.
+`TARGET_DIR` Path to directory, which should be benchmarked.
 
-`FILESIZE` Optional argument to specify the size of the test file. Default is `100M` 
+`FILESIZE` Optional argument to specify the size of the test file. Default is `100M`.
 
 #### Result
 
