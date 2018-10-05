@@ -21,4 +21,5 @@ sh speedtest.sh TARGET_DIR (FILESIZE)
 10485760 Bytes (10 MB) kopiert, 0,902346 s, 11,6 MB/s
 ```
 
-
+### Background Knowledge
+https://wiki.ubuntuusers.de/dd/
