@@ -1,4 +1,4 @@
-# disk_speedtest
+# Disk Speedtest
 
 Simple shell script to test disk/network speed.
 
